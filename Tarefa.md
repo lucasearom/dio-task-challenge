@@ -3,6 +3,6 @@
 
 ### Cursos à serem feitos:
 
-[] Maratona Python - NTT Academy
-[] Desenvolvimento Web - Rocketseat
-[] Angular - DIO
+ - Maratona Python - NTT Academy
+ - Desenvolvimento Web - Rocketseat
+ - Angular - DIO
